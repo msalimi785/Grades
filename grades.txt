@@ -1,0 +1,22 @@
+aziz 0 0 0 0 0
+aziz 0 0 0 0 0
+aziz	0	0	0	0
+iop	24	28	28
+iuyt	45	78	0	0	78
+tre	78	43	99	0	99
+toiu	89	56	0	0	89
+aziz	56	0	0	0	56
+aziz	100	0	0	0	100
+aziz	0	0	0	0	0
+aziz	0	0	0	0	0
+matin	23	0	0	0	23
+aziz	0	0	0	0	0
+erew	78	0	0	0	78
+	0	0	0	0	0
+qodos	123	0	0	0	123
+qodos	0	0	0	0	0
+qodos	0	0	0	0	0
+niuy	34	0	0	0	34
+jacob	78	0	0	0	78
+tom	34	65	0	0	65
+eric	23	89	56	0	89
